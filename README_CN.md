@@ -18,7 +18,7 @@
 sudo apt install adb
 
 # 进入 APK 所在目录
-cd <你的下载目录>
+cd <你的有apk的目录>
 
 # 安装桥接软件
 adb install 对应的apk

@@ -18,7 +18,7 @@
 sudo apt install adb
 
 # Navigate to the APK directory
-cd <your_download_directory>
+cd <Directory containing your APK files>
 
 # Install the bridge application
 adb install (the corresponding apk)
